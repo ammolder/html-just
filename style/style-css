@@ -1,5 +1,5 @@
 .lesson {
-    bgr
+    color: #fff;
 }
 
 div
