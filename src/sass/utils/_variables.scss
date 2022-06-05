@@ -1,0 +1,26 @@
+:root {
+  --primari-white-color: #ffffff;
+  --primari-text-color: #000000;
+  --secondary-text-color: #ffffff;
+  --accent-color: #f7941e;
+  --logo: #231f20;
+  --bg-block: #f1f1f2;
+  --bg-footer: ##fafafa;
+  --bg-element: #231f20;
+
+  --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+$primari-font: Gilroy, sans-serif;
+$secondary-font: Roboto, sans-serif;
+$logo-font: Homemade Apple, serif;
+
+$font-title: 32px;
+$font-paragraph: 20px;
+$font-small: 18px;
+
+$mobile: 480px;
+$max-mob: 767px;
+$tablet: 768px;
+$max-tab: 1199px;
+$desktop: 1200px;
